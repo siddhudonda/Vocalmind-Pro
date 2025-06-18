@@ -1,0 +1,5 @@
+gradio
+speechrecognition
+gtts
+requests
+openai
