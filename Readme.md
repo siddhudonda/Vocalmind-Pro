@@ -11,7 +11,7 @@
 - Elderly and Kids-friendly tone adjustment
 - Modular Skill System (Jokes, Calculator, News, Dictionary)
 - Gradio UI
-- Uses OpenAI/GPT models (or configurable LLMs)
+- Uses Gemini models and OpenAI/GPT (or configurable LLMs)
 
 ### 🚀 Getting Started
 
