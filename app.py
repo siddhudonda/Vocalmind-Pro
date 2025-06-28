@@ -5,7 +5,7 @@ from core.text_cleaner import clean_text
 from core.voice_generator import text_to_speech
 from core.intent_parser import parse_intent
 from skills import jokes, news, calculator, dictionary
-
+                                                             
 
 def process_audio(audio_path, mode='normal'):
     if not audio_path:
