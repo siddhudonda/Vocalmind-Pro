@@ -5,7 +5,7 @@
 - Understands natural speech
 - Performs tasks like telling jokes, defining words, fetching news, solving math
 - Replies back with voice
-
+                                          
 ### 💡 Features
 - Voice Input (Telugu & English)
 - Elderly and Kids-friendly tone adjustment
